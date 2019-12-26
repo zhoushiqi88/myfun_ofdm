@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FUN OFDM #
 
 This project is an 802.11a OFDM PHY layer implementation written in C++ for use with Ettus USRPs. It contains both transmitter and receiver blocks and were tested with USRP N210s + XCVR 2450 daughterboards. These blocks are provided separately so that they can be used individually. They can also be easily combined into a single transceiver, but that is left up to the user because how they interact with each other should be controlled by the MAC layer which is outside the scope of this project. Note: A simple transceiver example is provided in the examples directory of the project.
@@ -432,3 +433,6 @@ For help troubleshooting please make sure to include the following:
 
 Any helpful feedback (i.e. anything that isn't spam or trolling) is much appreciate!
 
+=======
+# myfun_ofdm
+>>>>>>> 8e6c0230148aea89a2b3e5d3fffad85f6c8176e6
